@@ -1,4 +1,4 @@
-package Easy.Arrays;
+package LC150.Bit-Manipulation;
 
 import java.util.Arrays;
 
